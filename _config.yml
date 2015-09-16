@@ -1,0 +1,12 @@
+# Site settings
+title: The Adventures of Artie the Arduino
+email: brennaleker@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My adventures with Artie my beloved Arduino.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://artiethearduino.com" # the base hostname & protocol for your site
+twitter_username: brennarama
+github_username:  Brennaleker
+
+# Build settings
+markdown: kramdown
